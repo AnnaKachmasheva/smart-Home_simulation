@@ -1,0 +1,29 @@
+[
+    {
+      "name": "Jack_1",
+      "age": 18,
+      "haveDrivingLicense": true
+    },
+    {
+      "name": "Jack_2",
+      "age": 40,
+      "haveDrivingLicense": false
+    },
+    {
+      "name": "Jack_3",
+      "age": 15
+    },
+    {
+      "name": "Jack_4",
+      "age": 2
+    },
+    {
+      "name": "Jack_5",
+      "age": 10
+    },
+   {
+     "name": "Jack_6",
+     "age": 3,
+     "haveDrivingLicense": true
+   }
+]

@@ -1,0 +1,43 @@
+[
+    {
+      "name": "Jack_1",
+      "age": 90,
+      "haveDrivingLicense": true
+    },
+    {
+      "name": "Jack_2",
+      "age": 80,
+      "haveDrivingLicense": false
+    },
+    {
+      "name": "Jack_3",
+      "age": 18,
+      "haveDrivingLicense": true
+    },
+    {
+      "name": "Jack_4",
+      "age": 15
+    },
+    {
+      "name": "Jack_5",
+      "age": 12
+    },
+    {
+      "name": "Jack_6",
+      "age": 16
+    },
+   {
+     "name": "Jack_7",
+     "age": 3,
+     "haveDrivingLicense": true
+   },
+   {
+     "name": "Jack_8",
+     "age": 2,
+     "haveDrivingLicense": true
+   },
+   {
+     "name": "Jack_9",
+     "age": 3
+   }
+]

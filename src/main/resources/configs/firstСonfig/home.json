@@ -1,0 +1,47 @@
+[
+  {
+    "floor": 1,
+    "rooms": [
+      {
+        "windowsCount": 1
+      },
+      {
+        "windowsCount": 5
+      },
+      {
+        "windowsCount": 0
+      }
+    ]
+  },
+  {
+    "floor": 2,
+    "rooms": [
+      {
+        "windowsCount": 1
+      },
+      {
+        "windowsCount": 4
+      },
+      {
+        "windowsCount": 0
+      }
+    ]
+  },
+  {
+    "floor": 3,
+    "rooms": [
+      {
+        "windowsCount": 6
+      },
+      {
+        "windowsCount": 0
+      },
+      {
+        "windowsCount": 0
+      },
+      {
+        "windowsCount": 1
+      }
+    ]
+  }
+]

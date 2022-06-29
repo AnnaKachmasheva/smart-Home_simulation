@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Auto_1",
+    "typeTransport": "AUTO"
+  },
+  {
+    "name": "Auto_2",
+    "typeTransport": "AUTO"
+  },
+  {
+    "name": "Skis_1",
+    "typeTransport": "SKIS"
+  },
+  {
+    "name": "Skis_2",
+    "typeTransport": "SKIS"
+  },
+  {
+    "name": "Bicycle_1",
+    "typeTransport": "BICYCLE"
+  },
+  {
+    "name": "Bicycle_2",
+    "typeTransport": "BICYCLE"
+  }
+]

@@ -1,0 +1,123 @@
+ Pets activities: 
+  1. PET Cat_1 
+-> Played alone 1 hours 30 minutes.
+-> Played with person 27 hours 10 minutes.
+   Persons:  name={Jack_1} 2 times,
+-> Slept 0 hours 0 minutes.
+-> Use devises 0 hours 0 minutes.
+   Devises:
+  2. PET Dog_1 
+-> Walked with person 14 hours 35 minutes.
+   Persons:  name={Jack_5} 1 times,
+-> Played alone 0 hours 0 minutes.
+-> Played with person 0 hours 0 minutes.
+   Persons:
+-> Slept 0 hours 20 minutes.
+-> Use devises 0 hours 40 minutes.
+   Devises:  name={feeder_name_5} id={37} 1 times,
+  3. PET Bird_1 
+-> Slept 8 hours 20 minutes.
+-> Use devises 4 hours 4 minutes.
+   Devises:  name={drinker_name_2} id={40} 2 times,  name={drinker_name_1} id={39} 3 times,  name={feeder_name_4} id={36} 2 times,  name={feeder_name_5} id={37} 1 times,  name={feeder_name_3} id={35} 2 times,  name={drinker_name_6} id={38} 1 times,
+
+ Persons activities: 
+  1. CHILD Jack_1 
+-> Slept 26 hours 10 minutes.
+-> Walked with pet 0 hours 0 minutes.
+   Pets: 
+-> Played with pet 0 hours 0 minutes.
+   Pets: 
+-> Fed the child 60 hours 30 minutes.
+   Babies:  name={Jack_4} 3 times,  name={Jack_6} 6 times,
+-> Played with the babies for 75 hours 5 minutes.
+   Babies:  name={Jack_4} 3 times,  name={Jack_6} 6 times,
+-> Walked with babies 60 hours 30 minutes.
+   Babies:   name={Jack_4} 5 times,  name={Jack_6} 5 times,
+-> Was not at home and did not walk with anyone 35 hours 20 minutes.
+-> Used transports 10 hours 5 minutes.
+   Transport:  name={Skis_2} 1 times, name={Skis_1} 5 times, name={Bicycle_2} 4 times, name={Bicycle_1} 1 times,
+   Was waiting in line to use the transport 24 hours 20 minutes.
+-> Used device 31 hours 32 minutes.
+   Devices:  name={television_name_6} id={6} 1 times,  name={drinker_name_1} id={39} 1 times,  name={television_name_1} id={1} 1 times,  name={refrigerator_name_5} id={11} 2 times,  name={pc_name_1} id={21} 5 times,  name={pc_name_2} id={22} 2 times,  name={shower_name_4} id={42} 4 times,  name={coffee_machine_name_2} id={20} 4 times,  name={coffee_machine_name_1} id={19} 3 times,  name={television_name_5} id={5} 2 times,  name={music_center_name_2} id={34} 2 times,  name={pc_nam_3} id={23} 5 times,  name={feeder_name_3} id={35} 1 times,  name={refrigerator_name_3} id={9} 1 times,  name={television_name_4} id={4} 3 times,
+   Was waiting in line to use the devices 31 hours 32 minutes.
+-> Fixed device 0 hours 0 minutes.
+-> Add content to device 0 hours 0 minutes.
+  2. ADULT Jack_2 
+-> Slept 0 hours 0 minutes.
+-> Walked with pet 0 hours 0 minutes.
+   Pets: 
+-> Played with pet 0 hours 0 minutes.
+   Pets: 
+-> Fed the child 16 hours 25 minutes.
+   Babies:
+-> Played with the babies for 0 hours 0 minutes.
+   Babies:
+-> Walked with babies 16 hours 25 minutes.
+   Babies:   name={Jack_4} 1 times,
+-> Was not at home and did not walk with anyone 27 hours 10 minutes.
+-> Used transports 0 hours 30 minutes.
+   Transport:  name={Skis_2} 2 times, name={Skis_1} 1 times, name={Bicycle_2} 1 times, name={Bicycle_1} 1 times,
+   Was waiting in line to use the transport 0 hours 0 minutes.
+-> Used device 2 hours 29 minutes.
+   Devices:  name={pc_name_2} id={22} 1 times,  name={drinker_name_2} id={40} 1 times,  name={television_name_6} id={6} 2 times,  name={pc_nam_3} id={23} 1 times,  name={feeder_name_5} id={37} 1 times,  name={refrigerator_name_6} id={12} 2 times,  name={drinker_name_6} id={38} 1 times,
+   Was waiting in line to use the devices 2 hours 29 minutes.
+-> Fixed device 0 hours 0 minutes.
+-> Add content to device 0 hours 0 minutes.
+  3. CHILD Jack_3 
+-> Slept 14 hours 15 minutes.
+-> Walked with pet 0 hours 0 minutes.
+   Pets: 
+-> Played with pet 0 hours 0 minutes.
+   Pets: 
+-> Fed the child 0 hours 0 minutes.
+   Babies:  name={Jack_6} 2 times,
+-> Played with the babies for 24 hours 40 minutes.
+   Babies:  name={Jack_6} 2 times,
+-> Walked with babies 0 hours 0 minutes.
+   Babies: 
+-> Was not at home and did not walk with anyone 29 hours 35 minutes.
+-> Used transports 0 hours 50 minutes.
+   Transport:  name={Skis_2} 1 times, name={Bicycle_2} 2 times, name={Bicycle_1} 1 times,
+   Was waiting in line to use the transport 0 hours 0 minutes.
+-> Used device 2 hours 44 minutes.
+   Devices:  name={feeder_name_4} id={36} 1 times,  name={coffee_machine_name_1} id={19} 2 times,  name={refrigerator_name_3} id={9} 2 times,  name={refrigerator_name_1} id={7} 2 times,  name={refrigerator_name_2} id={8} 2 times,
+   Was waiting in line to use the devices 2 hours 44 minutes.
+-> Fixed device 0 hours 0 minutes.
+-> Add content to device 0 hours 0 minutes.
+  4. BABY Jack_4 
+-> Slept 20 hours 40 minutes.
+-> Ate 68 hours 40 minutes.
+   Person:   name={Jack_5} 4 times,  name={Jack_1} 5 times,  name={Jack_2} 1 times,
+-> Play with person 63 hours 20 minutes.
+   Persons:  name={Jack_5} 3 times,  name={Jack_1} 3 times,
+-> Walked with person 68 hours 40 minutes.
+   Person:   name={Jack_5} 4 times,  name={Jack_1} 5 times,  name={Jack_2} 1 times,
+  5. CHILD Jack_5 
+-> Slept 8 hours 35 minutes.
+-> Walked with pet 14 hours 35 minutes.
+   Pets:  name={Dog_1} 1 times,
+-> Played with pet 0 hours 0 minutes.
+   Pets: 
+-> Fed the child 46 hours 45 minutes.
+   Babies:  name={Jack_4} 3 times,  name={Jack_6} 1 times,
+-> Played with the babies for 28 hours 50 minutes.
+   Babies:  name={Jack_4} 3 times,  name={Jack_6} 1 times,
+-> Walked with babies 46 hours 45 minutes.
+   Babies:   name={Jack_4} 4 times,  name={Jack_6} 3 times,
+-> Was not at home and did not walk with anyone 12 hours 15 minutes.
+-> Used transports 20 hours 10 minutes.
+   Transport:  name={Skis_2} 2 times, name={Skis_1} 5 times, name={Bicycle_2} 1 times, name={Bicycle_1} 6 times,
+   Was waiting in line to use the transport 44 hours 20 minutes.
+-> Used device 41 hours 2 minutes.
+   Devices:  name={pc_name_2} id={22} 1 times,  name={television_name_1} id={1} 2 times,  name={coffee_machine_name_2} id={20} 2 times,  name={coffee_machine_name_1} id={19} 1 times,  name={music_center_name_2} id={34} 1 times,  name={pc_nam_3} id={23} 2 times,  name={television_name_3} id={3} 2 times,  name={cleaner_name_3} id={41} 3 times,  name={television_name_2} id={2} 2 times,
+   Was waiting in line to use the devices 41 hours 2 minutes.
+-> Fixed device 0 hours 0 minutes.
+-> Add content to device 0 hours 0 minutes.
+  6. BABY Jack_6 
+-> Slept 36 hours 0 minutes.
+-> Ate 55 hours 0 minutes.
+   Person:   name={Jack_5} 3 times,  name={Jack_1} 5 times,
+-> Play with person 65 hours 15 minutes.
+   Persons:  name={Jack_5} 1 times,  name={Jack_1} 6 times,  name={Jack_3} 2 times,
+-> Walked with person 55 hours 0 minutes.
+   Person:   name={Jack_5} 3 times,  name={Jack_1} 5 times,

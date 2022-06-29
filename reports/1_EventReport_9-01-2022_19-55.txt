@@ -1,0 +1,364 @@
+ Event Report: 
+  Event Pet: 
+
+  1).  name={Cat_1} 
+ Event{type=ACTION, startTime=2022-01-09T12:07, endTime=2022-01-09T13:07, context='PET_PLAY'}
+ Event{type=ACTION, startTime=2022-01-09T13:37, endTime=2022-01-09T14:47, context='PET_PLAY'}
+ Event{type=ACTION, startTime=2022-01-09T16:07, endTime=2022-01-09T17:17, context='PET_PLAY'}
+ Event{type=ACTION, startTime=2022-01-09T09:27, endTime=2022-01-09T12:07, context='PET_SLEEP'}
+ Event{type=ACTION, startTime=2022-01-09T13:07, endTime=2022-01-09T13:37, context='PET_SLEEP'}
+ Event{type=ACTION, startTime=2022-01-09T14:47, endTime=2022-01-09T16:07, context='PET_SLEEP'}
+ Event{type=ACTION, startTime=2022-01-09T17:17, endTime=2022-01-09T19:55, context='PET_SLEEP'}
+ 
+  2).  name={Cat_2} 
+ Event{type=ACTION, startTime=2022-01-09T09:47, endTime=2022-01-09T13:47, context='PET_PLAY'}
+ Event{type=ACTION, startTime=2022-01-09T14:37, endTime=2022-01-09T15:27, context='PET_PLAY'}
+ Event{type=ACTION, startTime=2022-01-09T13:47, endTime=2022-01-09T14:37, context='PET_SLEEP'}
+ Event{type=ACTION, startTime=2022-01-09T15:27, endTime=2022-01-09T15:57, context='PET_SLEEP'}
+ Event{type=ACTION, startTime=2022-01-09T15:57, endTime=2022-01-09T19:17, context='PET_SLEEP'}
+ Event{type=ACTION, startTime=2022-01-09T19:17, endTime=2022-01-09T19:55, context='PET_SLEEP'}
+ 
+  3).  name={Dog_1} 
+ Event{type=ACTION, startTime=2022-01-09T14:17, endTime=2022-01-09T19:55, context='PERSON_PLAY_WITH_PET'}
+ Event{type=ACTION, startTime=2022-01-09T14:17, endTime=2022-01-09T19:55, context='PERSON_PLAY_WITH_PET'}
+ Event{type=ACTION, startTime=2022-01-09T13:17, endTime=2022-01-09T13:42, context='PERSON_WALK_WITH_PET'}
+ Event{type=ACTION, startTime=2022-01-09T07:37, endTime=2022-01-09T13:17, context='PET_SLEEP'}
+ Event{type=USAGE_DEVICE, startTime=2022-01-09T07:17, endTime=2022-01-09T07:37, context='INHABITANT_DEVICE_USE'}
+ 
+  4).  name={Dog_2} 
+ Event{type=ACTION, startTime=2022-01-09T16:47, endTime=2022-01-09T19:55, context='PERSON_PLAY_WITH_PET'}
+ Event{type=ACTION, startTime=2022-01-09T16:47, endTime=2022-01-09T19:55, context='PERSON_PLAY_WITH_PET'}
+ Event{type=ACTION, startTime=2022-01-09T09:07, endTime=2022-01-09T09:22, context='PERSON_WALK_WITH_PET'}
+ Event{type=ACTION, startTime=2022-01-09T12:27, endTime=2022-01-09T12:27, context='PERSON_WALK_WITH_PET'}
+ Event{type=ACTION, startTime=2022-01-09T11:47, endTime=2022-01-09T12:27, context='PET_SLEEP'}
+ Event{type=ACTION, startTime=2022-01-09T12:37, endTime=2022-01-09T16:47, context='PET_SLEEP'}
+ Event{type=USAGE_DEVICE, startTime=2022-01-09T11:07, endTime=2022-01-09T11:47, context='INHABITANT_DEVICE_USE'}
+ 
+  5).  name={Bird_1} 
+ Event{type=ACTION, startTime=2022-01-09T07:47, endTime=2022-01-09T09:17, context='PET_SLEEP'}
+ Event{type=ACTION, startTime=2022-01-09T09:17, endTime=2022-01-09T10:27, context='PET_SLEEP'}
+ Event{type=USAGE_DEVICE, startTime=2022-01-09T10:27, endTime=2022-01-09T11:17, context='INHABITANT_DEVICE_USE'}
+ 
+  6).  name={Fish_1} 
+ Event{type=ACTION, startTime=2022-01-09T10:47, endTime=2022-01-09T10:57, context='PET_SLEEP'}
+ Event{type=ACTION, startTime=2022-01-09T15:37, endTime=2022-01-09T18:07, context='PET_SLEEP'}
+ Event{type=USAGE_DEVICE, startTime=2022-01-09T10:57, endTime=2022-01-09T11:36, context='INHABITANT_DEVICE_USE'}
+ Event{type=USAGE_DEVICE, startTime=2022-01-09T14:27, endTime=2022-01-09T15:26, context='INHABITANT_DEVICE_USE'}
+ Event{type=USAGE_DEVICE, startTime=2022-01-09T18:07, endTime=2022-01-09T19:07, context='INHABITANT_DEVICE_USE'}
+ 
+  7).  name={Turtle_1} 
+ Event{type=USAGE_DEVICE, startTime=2022-01-09T15:07, endTime=2022-01-09T15:46, context='INHABITANT_DEVICE_USE'}
+ 
+  8).  name={Snake_1} 
+ Event{type=ACTION, startTime=2022-01-09T18:37, endTime=2022-01-09T18:57, context='PET_SLEEP'}
+ Event{type=ACTION, startTime=2022-01-09T18:57, endTime=2022-01-09T19:55, context='PET_SLEEP'}
+ 
+  9).  name={Snake_2} 
+ Event{type=ACTION, startTime=2022-01-09T08:27, endTime=2022-01-09T09:57, context='PET_SLEEP'}
+ Event{type=ACTION, startTime=2022-01-09T09:57, endTime=2022-01-09T10:37, context='PET_SLEEP'}
+ Event{type=ACTION, startTime=2022-01-09T11:37, endTime=2022-01-09T11:57, context='PET_SLEEP'}
+ Event{type=ACTION, startTime=2022-01-09T17:37, endTime=2022-01-09T19:55, context='PET_SLEEP'}
+ Event{type=USAGE_DEVICE, startTime=2022-01-09T07:27, endTime=2022-01-09T08:27, context='INHABITANT_DEVICE_USE'}
+ Event{type=USAGE_DEVICE, startTime=2022-01-09T10:37, endTime=2022-01-09T11:37, context='INHABITANT_DEVICE_USE'}
+ Event{type=USAGE_DEVICE, startTime=2022-01-09T11:57, endTime=2022-01-09T12:57, context='INHABITANT_DEVICE_USE'}
+ Event{type=USAGE_DEVICE, startTime=2022-01-09T13:57, endTime=2022-01-09T14:57, context='INHABITANT_DEVICE_USE'}
+ 
+ 
+ Event Person: 
+
+  1).   name={Jack_1} 
+ Event{type=ACTION, startTime=2022-01-09T10:37, endTime=2022-01-09T19:55, context='PERSON_GO_OUT'}
+ Event{type=ACTION, startTime=2022-01-09T11:37, endTime=2022-01-09T19:55, context='PERSON_PLAY_WITH_BABY'}
+ Event{type=ACTION, startTime=2022-01-09T07:47, endTime=2022-01-09T19:55, context='PERSON_WALK_WITH_BABY'}
+ Event{type=WAIT, startTime=2022-01-09T09:52, endTime=2022-01-09T19:55, context='INHABITANT_DEVICE_WAIT'}
+ Event{type=WAIT, startTime=2022-01-09T12:22, endTime=2022-01-09T19:55, context='PERSON_WAIT_TRANSPORT'}
+ Event{type=USAGE_DEVICE, startTime=2022-01-09T08:22, endTime=2022-01-09T08:52, context='INHABITANT_DEVICE_USE'}
+ Event{type=USAGE_DEVICE, startTime=2022-01-09T08:52, endTime=2022-01-09T09:02, context='INHABITANT_DEVICE_USE'}
+ Event{type=USAGE_DEVICE, startTime=2022-01-09T09:17, endTime=2022-01-09T09:37, context='INHABITANT_DEVICE_USE'}
+ Event{type=USAGE_DEVICE, startTime=2022-01-09T09:37, endTime=2022-01-09T09:52, context='INHABITANT_DEVICE_USE'}
+ Event{type=USAGE_DEVICE, startTime=2022-01-09T10:17, endTime=2022-01-09T10:37, context='INHABITANT_DEVICE_USE'}
+ Event{type=USAGE_DEVICE, startTime=2022-01-09T12:12, endTime=2022-01-09T12:22, context='INHABITANT_DEVICE_USE'}
+ Event{type=ON_DEVICE, startTime=2022-01-09T07:17, endTime=2022-01-09T07:17, context='INHABITANT_DEVICE_USE'}
+ Event{type=ON_DEVICE, startTime=2022-01-09T07:27, endTime=2022-01-09T07:27, context='INHABITANT_DEVICE_USE'}
+ Event{type=ON_DEVICE, startTime=2022-01-09T08:22, endTime=2022-01-09T08:22, context='INHABITANT_DEVICE_USE'}
+ Event{type=ON_DEVICE, startTime=2022-01-09T09:37, endTime=2022-01-09T09:37, context='INHABITANT_DEVICE_USE'}
+ Event{type=USAGE_TRANSPORT, startTime=2022-01-09T08:12, endTime=2022-01-09T08:22, context='PERSON_USED_TRANSPORT'}
+ Event{type=USAGE_TRANSPORT, startTime=2022-01-09T09:02, endTime=2022-01-09T09:17, context='PERSON_USED_TRANSPORT'}
+ Event{type=USAGE_TRANSPORT, startTime=2022-01-09T09:52, endTime=2022-01-09T09:52, context='PERSON_USED_TRANSPORT'}
+ 
+  2).   name={Jack_2} 
+ Event{type=ACTION, startTime=2022-01-09T07:57, endTime=2022-01-09T19:55, context='PERSON_GO_OUT'}
+ Event{type=USAGE_DEVICE, startTime=2022-01-09T07:42, endTime=2022-01-09T07:57, context='INHABITANT_DEVICE_USE'}
+ Event{type=ON_DEVICE, startTime=2022-01-09T07:42, endTime=2022-01-09T07:42, context='INHABITANT_DEVICE_USE'}
+ 
+  3).   name={Jack_3} 
+ Event{type=ACTION, startTime=2022-01-09T15:27, endTime=2022-01-09T19:55, context='PERSON_GO_OUT'}
+ Event{type=ACTION, startTime=2022-01-09T12:57, endTime=2022-01-09T19:55, context='PERSON_PLAY_WITH_BABY'}
+ Event{type=ACTION, startTime=2022-01-09T13:57, endTime=2022-01-09T19:55, context='PERSON_PLAY_WITH_BABY'}
+ Event{type=ACTION, startTime=2022-01-09T14:27, endTime=2022-01-09T19:55, context='PERSON_PLAY_WITH_BABY'}
+ Event{type=ACTION, startTime=2022-01-09T17:47, endTime=2022-01-09T19:55, context='PERSON_PLAY_WITH_BABY'}
+ Event{type=ACTION, startTime=2022-01-09T08:37, endTime=2022-01-09T19:55, context='PERSON_SLEEP'}
+ Event{type=ACTION, startTime=2022-01-09T10:17, endTime=2022-01-09T19:55, context='PERSON_SLEEP'}
+ Event{type=ACTION, startTime=2022-01-09T10:27, endTime=2022-01-09T19:55, context='PERSON_SLEEP'}
+ Event{type=ACTION, startTime=2022-01-09T11:07, endTime=2022-01-09T19:55, context='PERSON_WALK_WITH_BABY'}
+ Event{type=ACTION, startTime=2022-01-09T15:57, endTime=2022-01-09T19:55, context='PERSON_WALK_WITH_BABY'}
+ Event{type=ACTION, startTime=2022-01-09T18:27, endTime=2022-01-09T19:55, context='PERSON_WALK_WITH_BABY'}
+ Event{type=ACTION, startTime=2022-01-09T09:07, endTime=2022-01-09T09:22, context='PERSON_WALK_WITH_PET'}
+ Event{type=ACTION, startTime=2022-01-09T12:27, endTime=2022-01-09T12:27, context='PERSON_WALK_WITH_PET'}
+ Event{type=ACTION, startTime=2022-01-09T13:17, endTime=2022-01-09T13:42, context='PERSON_WALK_WITH_PET'}
+ Event{type=USAGE_DEVICE, startTime=2022-01-09T07:17, endTime=2022-01-09T07:32, context='INHABITANT_DEVICE_USE'}
+ Event{type=USAGE_DEVICE, startTime=2022-01-09T09:22, endTime=2022-01-09T10:17, context='INHABITANT_DEVICE_USE'}
+ Event{type=USAGE_DEVICE, startTime=2022-01-09T10:57, endTime=2022-01-09T11:02, context='INHABITANT_DEVICE_USE'}
+ Event{type=USAGE_DEVICE, startTime=2022-01-09T11:02, endTime=2022-01-09T12:26, context='INHABITANT_DEVICE_USE'}
+ Event{type=USAGE_DEVICE, startTime=2022-01-09T11:42, endTime=2022-01-09T11:47, context='INHABITANT_DEVICE_USE'}
+ Event{type=USAGE_DEVICE, startTime=2022-01-09T12:27, endTime=2022-01-09T12:32, context='INHABITANT_DEVICE_USE'}
+ Event{type=USAGE_DEVICE, startTime=2022-01-09T12:42, endTime=2022-01-09T14:21, context='INHABITANT_DEVICE_USE'}
+ Event{type=USAGE_DEVICE, startTime=2022-01-09T16:22, endTime=2022-01-09T16:32, context='INHABITANT_DEVICE_USE'}
+ Event{type=USAGE_DEVICE, startTime=2022-01-09T16:32, endTime=2022-01-09T18:11, context='INHABITANT_DEVICE_USE'}
+ Event{type=USAGE_DEVICE, startTime=2022-01-09T18:12, endTime=2022-01-09T18:22, context='INHABITANT_DEVICE_USE'}
+ Event{type=USAGE_DEVICE, startTime=2022-01-09T18:57, endTime=2022-01-09T19:55, context='INHABITANT_DEVICE_USE'}
+ Event{type=ON_DEVICE, startTime=2022-01-09T07:17, endTime=2022-01-09T07:17, context='INHABITANT_DEVICE_USE'}
+ Event{type=ON_DEVICE, startTime=2022-01-09T09:22, endTime=2022-01-09T09:22, context='INHABITANT_DEVICE_USE'}
+ Event{type=ON_DEVICE, startTime=2022-01-09T10:27, endTime=2022-01-09T10:27, context='INHABITANT_DEVICE_USE'}
+ Event{type=ON_DEVICE, startTime=2022-01-09T10:37, endTime=2022-01-09T10:37, context='INHABITANT_DEVICE_USE'}
+ Event{type=ON_DEVICE, startTime=2022-01-09T10:57, endTime=2022-01-09T10:57, context='INHABITANT_DEVICE_USE'}
+ Event{type=ON_DEVICE, startTime=2022-01-09T11:07, endTime=2022-01-09T11:07, context='INHABITANT_DEVICE_USE'}
+ Event{type=ON_DEVICE, startTime=2022-01-09T12:27, endTime=2022-01-09T12:27, context='INHABITANT_DEVICE_USE'}
+ Event{type=ON_DEVICE, startTime=2022-01-09T12:42, endTime=2022-01-09T12:42, context='INHABITANT_DEVICE_USE'}
+ Event{type=ON_DEVICE, startTime=2022-01-09T13:57, endTime=2022-01-09T13:57, context='INHABITANT_DEVICE_USE'}
+ Event{type=FIX_DEVICE, startTime=2022-01-09T10:51, endTime=2022-01-09T10:51, context='PERSON_DEVICE_FIX'}
+ Event{type=FIX_DEVICE, startTime=2022-01-09T15:26, endTime=2022-01-09T15:26, context='PERSON_DEVICE_FIX'}
+ Event{type=FIX_DEVICE, startTime=2022-01-09T18:11, endTime=2022-01-09T18:11, context='PERSON_DEVICE_FIX'}
+ Event{type=USAGE_TRANSPORT, startTime=2022-01-09T07:32, endTime=2022-01-09T07:42, context='PERSON_USED_TRANSPORT'}
+ Event{type=USAGE_TRANSPORT, startTime=2022-01-09T07:42, endTime=2022-01-09T08:37, context='PERSON_USED_TRANSPORT'}
+ Event{type=USAGE_TRANSPORT, startTime=2022-01-09T08:42, endTime=2022-01-09T08:57, context='PERSON_USED_TRANSPORT'}
+ Event{type=USAGE_TRANSPORT, startTime=2022-01-09T11:32, endTime=2022-01-09T11:42, context='PERSON_USED_TRANSPORT'}
+ Event{type=USAGE_TRANSPORT, startTime=2022-01-09T11:42, endTime=2022-01-09T11:42, context='PERSON_USED_TRANSPORT'}
+ Event{type=USAGE_TRANSPORT, startTime=2022-01-09T12:02, endTime=2022-01-09T19:55, context='PERSON_USED_TRANSPORT'}
+ Event{type=USAGE_TRANSPORT, startTime=2022-01-09T12:32, endTime=2022-01-09T12:32, context='PERSON_USED_TRANSPORT'}
+ Event{type=USAGE_TRANSPORT, startTime=2022-01-09T13:02, endTime=2022-01-09T13:02, context='PERSON_USED_TRANSPORT'}
+ Event{type=USAGE_TRANSPORT, startTime=2022-01-09T16:52, endTime=2022-01-09T16:52, context='PERSON_USED_TRANSPORT'}
+ Event{type=USAGE_TRANSPORT, startTime=2022-01-09T17:12, endTime=2022-01-09T19:55, context='PERSON_USED_TRANSPORT'}
+ Event{type=USAGE_TRANSPORT, startTime=2022-01-09T19:32, endTime=2022-01-09T19:32, context='PERSON_USED_TRANSPORT'}
+ 
+  4).   name={Jack_4} 
+ Event{type=WAIT, startTime=2022-01-09T08:52, endTime=2022-01-09T19:55, context='PERSON_WAIT_TRANSPORT'}
+ Event{type=USAGE_DEVICE, startTime=2022-01-09T07:32, endTime=2022-01-09T08:52, context='INHABITANT_DEVICE_USE'}
+ Event{type=ON_DEVICE, startTime=2022-01-09T07:32, endTime=2022-01-09T07:32, context='INHABITANT_DEVICE_USE'}
+ 
+  5).   name={Jack_5} 
+ Event{type=ACTION, startTime=2022-01-09T07:37, endTime=2022-01-09T19:55, context='PERSON_GO_OUT'}
+ Event{type=USAGE_DEVICE, startTime=2022-01-09T07:22, endTime=2022-01-09T07:27, context='INHABITANT_DEVICE_USE'}
+ Event{type=USAGE_DEVICE, startTime=2022-01-09T07:27, endTime=2022-01-09T07:37, context='INHABITANT_DEVICE_USE'}
+ Event{type=ON_DEVICE, startTime=2022-01-09T07:22, endTime=2022-01-09T07:22, context='INHABITANT_DEVICE_USE'}
+ Event{type=ON_DEVICE, startTime=2022-01-09T07:27, endTime=2022-01-09T07:27, context='INHABITANT_DEVICE_USE'}
+ Event{type=USAGE_TRANSPORT, startTime=2022-01-09T07:22, endTime=2022-01-09T07:22, context='PERSON_USED_TRANSPORT'}
+ 
+  6).   name={Jack_6} 
+ Event{type=ACTION, startTime=2022-01-09T11:17, endTime=2022-01-09T19:55, context='PERSON_GO_OUT'}
+ Event{type=WAIT, startTime=2022-01-09T10:12, endTime=2022-01-09T19:55, context='INHABITANT_DEVICE_WAIT'}
+ Event{type=USAGE_DEVICE, startTime=2022-01-09T07:52, endTime=2022-01-09T08:32, context='INHABITANT_DEVICE_USE'}
+ Event{type=USAGE_DEVICE, startTime=2022-01-09T09:12, endTime=2022-01-09T10:51, context='INHABITANT_DEVICE_USE'}
+ Event{type=USAGE_DEVICE, startTime=2022-01-09T10:02, endTime=2022-01-09T10:12, context='INHABITANT_DEVICE_USE'}
+ Event{type=USAGE_DEVICE, startTime=2022-01-09T10:37, endTime=2022-01-09T10:42, context='INHABITANT_DEVICE_USE'}
+ Event{type=USAGE_DEVICE, startTime=2022-01-09T10:52, endTime=2022-01-09T11:02, context='INHABITANT_DEVICE_USE'}
+ Event{type=ON_DEVICE, startTime=2022-01-09T09:12, endTime=2022-01-09T09:12, context='INHABITANT_DEVICE_USE'}
+ Event{type=ON_DEVICE, startTime=2022-01-09T10:52, endTime=2022-01-09T10:52, context='INHABITANT_DEVICE_USE'}
+ Event{type=USAGE_TRANSPORT, startTime=2022-01-09T07:52, endTime=2022-01-09T07:52, context='PERSON_USED_TRANSPORT'}
+ Event{type=USAGE_TRANSPORT, startTime=2022-01-09T08:32, endTime=2022-01-09T09:12, context='PERSON_USED_TRANSPORT'}
+ Event{type=USAGE_TRANSPORT, startTime=2022-01-09T09:12, endTime=2022-01-09T09:12, context='PERSON_USED_TRANSPORT'}
+ Event{type=USAGE_TRANSPORT, startTime=2022-01-09T09:42, endTime=2022-01-09T10:02, context='PERSON_USED_TRANSPORT'}
+ Event{type=USAGE_TRANSPORT, startTime=2022-01-09T10:42, endTime=2022-01-09T10:52, context='PERSON_USED_TRANSPORT'}
+ Event{type=USAGE_TRANSPORT, startTime=2022-01-09T11:02, endTime=2022-01-09T11:17, context='PERSON_USED_TRANSPORT'}
+ 
+  7).   name={Jack_7} 
+ Event{type=ACTION, startTime=2022-01-09T12:57, endTime=2022-01-09T19:55, context='PERSON_PLAY_WITH_BABY'}
+ Event{type=ACTION, startTime=2022-01-09T13:57, endTime=2022-01-09T19:55, context='PERSON_PLAY_WITH_BABY'}
+ Event{type=ACTION, startTime=2022-01-09T15:47, endTime=2022-01-09T19:55, context='PERSON_SLEEP'}
+ Event{type=ACTION, startTime=2022-01-09T16:57, endTime=2022-01-09T19:55, context='PERSON_SLEEP'}
+ Event{type=ACTION, startTime=2022-01-09T11:07, endTime=2022-01-09T19:55, context='PERSON_WALK_WITH_BABY'}
+ 
+  8).   name={Jack_8} 
+ Event{type=ACTION, startTime=2022-01-09T11:37, endTime=2022-01-09T19:55, context='PERSON_PLAY_WITH_BABY'}
+ Event{type=ACTION, startTime=2022-01-09T12:07, endTime=2022-01-09T19:55, context='PERSON_SLEEP'}
+ Event{type=ACTION, startTime=2022-01-09T07:47, endTime=2022-01-09T19:55, context='PERSON_WALK_WITH_BABY'}
+ Event{type=ACTION, startTime=2022-01-09T18:27, endTime=2022-01-09T19:55, context='PERSON_WALK_WITH_BABY'}
+ 
+  9).   name={Jack_9} 
+ Event{type=ACTION, startTime=2022-01-09T14:27, endTime=2022-01-09T19:55, context='PERSON_PLAY_WITH_BABY'}
+ Event{type=ACTION, startTime=2022-01-09T17:47, endTime=2022-01-09T19:55, context='PERSON_PLAY_WITH_BABY'}
+ Event{type=ACTION, startTime=2022-01-09T08:07, endTime=2022-01-09T19:55, context='PERSON_SLEEP'}
+ Event{type=ACTION, startTime=2022-01-09T08:47, endTime=2022-01-09T19:55, context='PERSON_SLEEP'}
+ Event{type=ACTION, startTime=2022-01-09T13:37, endTime=2022-01-09T19:55, context='PERSON_SLEEP'}
+ Event{type=ACTION, startTime=2022-01-09T15:57, endTime=2022-01-09T19:55, context='PERSON_WALK_WITH_BABY'}
+ 
+ 
+ Event Devices: 
+
+  1).   name={conditioner_nam_2} id={28} 
+ Event{type=RAISE_TEMPERATURE, startTime=2022-01-09T08:43, endTime=2022-01-09T10:20, context='DEVICE_RESPONSE_TO_SENSOR'}
+ Event{type=RAISE_TEMPERATURE, startTime=2022-01-09T10:22, endTime=2022-01-09T10:24, context='DEVICE_RESPONSE_TO_SENSOR'}
+ Event{type=RAISE_TEMPERATURE, startTime=2022-01-09T10:27, endTime=2022-01-09T10:32, context='DEVICE_RESPONSE_TO_SENSOR'}
+ Event{type=RAISE_TEMPERATURE, startTime=2022-01-09T10:48, endTime=2022-01-09T11:18, context='DEVICE_RESPONSE_TO_SENSOR'}
+ Event{type=RAISE_TEMPERATURE, startTime=2022-01-09T11:23, endTime=2022-01-09T11:44, context='DEVICE_RESPONSE_TO_SENSOR'}
+ Event{type=RAISE_TEMPERATURE, startTime=2022-01-09T11:46, endTime=2022-01-09T11:48, context='DEVICE_RESPONSE_TO_SENSOR'}
+ Event{type=RAISE_TEMPERATURE, startTime=2022-01-09T12:03, endTime=2022-01-09T19:55, context='DEVICE_RESPONSE_TO_SENSOR'}
+ 
+  2).   name={conditioner_nam_5} id={29} 
+ Event{type=RAISE_TEMPERATURE, startTime=2022-01-09T08:43, endTime=2022-01-09T10:20, context='DEVICE_RESPONSE_TO_SENSOR'}
+ Event{type=RAISE_TEMPERATURE, startTime=2022-01-09T10:22, endTime=2022-01-09T10:24, context='DEVICE_RESPONSE_TO_SENSOR'}
+ Event{type=RAISE_TEMPERATURE, startTime=2022-01-09T10:27, endTime=2022-01-09T10:32, context='DEVICE_RESPONSE_TO_SENSOR'}
+ Event{type=RAISE_TEMPERATURE, startTime=2022-01-09T10:48, endTime=2022-01-09T11:18, context='DEVICE_RESPONSE_TO_SENSOR'}
+ Event{type=RAISE_TEMPERATURE, startTime=2022-01-09T11:23, endTime=2022-01-09T11:44, context='DEVICE_RESPONSE_TO_SENSOR'}
+ Event{type=RAISE_TEMPERATURE, startTime=2022-01-09T11:46, endTime=2022-01-09T11:48, context='DEVICE_RESPONSE_TO_SENSOR'}
+ Event{type=RAISE_TEMPERATURE, startTime=2022-01-09T12:03, endTime=2022-01-09T19:55, context='DEVICE_RESPONSE_TO_SENSOR'}
+ 
+  3).   name={purifier_name_3} id={30} 
+ Event{type=RAISE_HUMIDITY, startTime=2022-01-09T07:20, endTime=2022-01-09T07:21, context='DEVICE_RESPONSE_TO_SENSOR'}
+ Event{type=RAISE_HUMIDITY, startTime=2022-01-09T07:24, endTime=2022-01-09T19:55, context='DEVICE_RESPONSE_TO_SENSOR'}
+ 
+  4). null
+  5). null
+  6).   name={coffee_machine_name_2} id={11} 
+ Event{type=USAGE_DEVICE, startTime=2022-01-09T10:52, endTime=2022-01-09T11:02, context='INHABITANT_DEVICE_USE'}
+ Event{type=ON_DEVICE, startTime=2022-01-09T10:52, endTime=2022-01-09T10:52, context='INHABITANT_DEVICE_USE'}
+ 
+  7).   name={coffee_machine_name_7} id={12} 
+ Event{type=USAGE_DEVICE, startTime=2022-01-09T07:32, endTime=2022-01-09T08:52, context='INHABITANT_DEVICE_USE'}
+ Event{type=USAGE_DEVICE, startTime=2022-01-09T11:42, endTime=2022-01-09T11:47, context='INHABITANT_DEVICE_USE'}
+ Event{type=ON_DEVICE, startTime=2022-01-09T07:32, endTime=2022-01-09T07:32, context='INHABITANT_DEVICE_USE'}
+ 
+  8).   name={coffee_machine_name_7} id={13} 
+ Event{type=WAIT, startTime=2022-01-09T09:52, endTime=2022-01-09T19:55, context='INHABITANT_DEVICE_WAIT'}
+ Event{type=WAIT, startTime=2022-01-09T10:12, endTime=2022-01-09T19:55, context='INHABITANT_DEVICE_WAIT'}
+ Event{type=USAGE_DEVICE, startTime=2022-01-09T09:22, endTime=2022-01-09T10:17, context='INHABITANT_DEVICE_USE'}
+ Event{type=USAGE_DEVICE, startTime=2022-01-09T10:17, endTime=2022-01-09T10:37, context='INHABITANT_DEVICE_USE'}
+ Event{type=USAGE_DEVICE, startTime=2022-01-09T10:37, endTime=2022-01-09T10:42, context='INHABITANT_DEVICE_USE'}
+ Event{type=ON_DEVICE, startTime=2022-01-09T09:22, endTime=2022-01-09T09:22, context='INHABITANT_DEVICE_USE'}
+ 
+  9).   name={drinker_name_3} id={35} 
+ Event{type=USAGE_DEVICE, startTime=2022-01-09T10:27, endTime=2022-01-09T11:17, context='INHABITANT_DEVICE_USE'}
+ Event{type=ON_DEVICE, startTime=2022-01-09T10:27, endTime=2022-01-09T10:27, context='INHABITANT_DEVICE_USE'}
+ 
+  10).   name={drinker_name_7} id={36} 
+ Event{type=USAGE_DEVICE, startTime=2022-01-09T07:17, endTime=2022-01-09T07:37, context='INHABITANT_DEVICE_USE'}
+ Event{type=USAGE_DEVICE, startTime=2022-01-09T11:57, endTime=2022-01-09T12:57, context='INHABITANT_DEVICE_USE'}
+ Event{type=ON_DEVICE, startTime=2022-01-09T07:17, endTime=2022-01-09T07:17, context='INHABITANT_DEVICE_USE'}
+ 
+  11).   name={drinker_name_8} id={37} 
+ Event{type=USAGE_DEVICE, startTime=2022-01-09T13:57, endTime=2022-01-09T14:57, context='INHABITANT_DEVICE_USE'}
+ Event{type=ON_DEVICE, startTime=2022-01-09T13:57, endTime=2022-01-09T13:57, context='INHABITANT_DEVICE_USE'}
+ 
+  12).   name={feeder_name_1} id={32} 
+ Event{type=USAGE_DEVICE, startTime=2022-01-09T10:37, endTime=2022-01-09T11:37, context='INHABITANT_DEVICE_USE'}
+ Event{type=USAGE_DEVICE, startTime=2022-01-09T15:07, endTime=2022-01-09T15:46, context='INHABITANT_DEVICE_USE'}
+ Event{type=ON_DEVICE, startTime=2022-01-09T10:37, endTime=2022-01-09T10:37, context='INHABITANT_DEVICE_USE'}
+ Event{type=BLOCK_DEVICE, startTime=2022-01-09T15:46, endTime=2022-01-09T15:46, context='DEVICE_BLOCK'}
+ 
+  13).   name={feeder_name_2} id={33} 
+ Event{type=USAGE_DEVICE, startTime=2022-01-09T07:27, endTime=2022-01-09T08:27, context='INHABITANT_DEVICE_USE'}
+ Event{type=USAGE_DEVICE, startTime=2022-01-09T10:57, endTime=2022-01-09T11:36, context='INHABITANT_DEVICE_USE'}
+ Event{type=ON_DEVICE, startTime=2022-01-09T07:27, endTime=2022-01-09T07:27, context='INHABITANT_DEVICE_USE'}
+ Event{type=BLOCK_DEVICE, startTime=2022-01-09T11:36, endTime=2022-01-09T11:36, context='DEVICE_BLOCK'}
+ 
+  14).   name={feeder_name_5} id={34} 
+ Event{type=USAGE_DEVICE, startTime=2022-01-09T11:07, endTime=2022-01-09T11:47, context='INHABITANT_DEVICE_USE'}
+ Event{type=USAGE_DEVICE, startTime=2022-01-09T14:27, endTime=2022-01-09T15:26, context='INHABITANT_DEVICE_USE'}
+ Event{type=USAGE_DEVICE, startTime=2022-01-09T18:07, endTime=2022-01-09T19:07, context='INHABITANT_DEVICE_USE'}
+ Event{type=ON_DEVICE, startTime=2022-01-09T11:07, endTime=2022-01-09T11:07, context='INHABITANT_DEVICE_USE'}
+ Event{type=FIX_DEVICE, startTime=2022-01-09T15:26, endTime=2022-01-09T15:26, context='PERSON_DEVICE_FIX'}
+ 
+  15).   name={lamp_name_4} id={20} 
+ Event{type=BLOCK_DEVICE, startTime=2022-01-09T08:52, endTime=2022-01-09T08:52, context='DEVICE_BLOCK'}
+ Event{type=LIGHT_NIGHT, startTime=2022-01-09T07:12, endTime=2022-01-09T08:52, context='DEVICE_RESPONSE_TO_SENSOR'}
+ 
+  16).   name={lamp_name_1} id={21} 
+ Event{type=USAGE_DEVICE, startTime=2022-01-09T07:52, endTime=2022-01-09T08:32, context='INHABITANT_DEVICE_USE'}
+ Event{type=BLOCK_DEVICE, startTime=2022-01-09T08:53, endTime=2022-01-09T08:53, context='DEVICE_BLOCK'}
+ Event{type=LIGHT_NIGHT, startTime=2022-01-09T07:12, endTime=null, context='DEVICE_RESPONSE_TO_SENSOR'}
+ Event{type=LIGHT_NIGHT, startTime=2022-01-09T08:32, endTime=2022-01-09T08:53, context='DEVICE_RESPONSE_TO_SENSOR'}
+ 
+  17).   name={lamp_name_1} id={22} 
+ Event{type=BLOCK_DEVICE, startTime=2022-01-09T08:52, endTime=2022-01-09T08:52, context='DEVICE_BLOCK'}
+ Event{type=LIGHT_NIGHT, startTime=2022-01-09T07:12, endTime=2022-01-09T08:52, context='DEVICE_RESPONSE_TO_SENSOR'}
+ 
+  18).   name={lamp_name_1} id={23} 
+ Event{type=BLOCK_DEVICE, startTime=2022-01-09T08:52, endTime=2022-01-09T08:52, context='DEVICE_BLOCK'}
+ Event{type=LIGHT_NIGHT, startTime=2022-01-09T07:12, endTime=2022-01-09T08:52, context='DEVICE_RESPONSE_TO_SENSOR'}
+ 
+  19).   name={lamp_name_1} id={24} 
+ Event{type=BLOCK_DEVICE, startTime=2022-01-09T08:52, endTime=2022-01-09T08:52, context='DEVICE_BLOCK'}
+ Event{type=LIGHT_NIGHT, startTime=2022-01-09T07:12, endTime=2022-01-09T08:52, context='DEVICE_RESPONSE_TO_SENSOR'}
+ 
+  20).   name={lamp_name_7} id={25} 
+ Event{type=BLOCK_DEVICE, startTime=2022-01-09T08:52, endTime=2022-01-09T08:52, context='DEVICE_BLOCK'}
+ Event{type=LIGHT_NIGHT, startTime=2022-01-09T07:12, endTime=2022-01-09T08:52, context='DEVICE_RESPONSE_TO_SENSOR'}
+ 
+  21).   name={lamp_name_7} id={26} 
+ Event{type=BLOCK_DEVICE, startTime=2022-01-09T08:52, endTime=2022-01-09T08:52, context='DEVICE_BLOCK'}
+ Event{type=LIGHT_NIGHT, startTime=2022-01-09T07:12, endTime=2022-01-09T08:52, context='DEVICE_RESPONSE_TO_SENSOR'}
+ 
+  22).   name={lamp_name_9} id={27} 
+ Event{type=BLOCK_DEVICE, startTime=2022-01-09T08:52, endTime=2022-01-09T08:52, context='DEVICE_BLOCK'}
+ Event{type=LIGHT_NIGHT, startTime=2022-01-09T07:12, endTime=2022-01-09T08:52, context='DEVICE_RESPONSE_TO_SENSOR'}
+ 
+  23).   name={music_center_name_6} id={31} 
+ Event{type=USAGE_DEVICE, startTime=2022-01-09T12:42, endTime=2022-01-09T14:21, context='INHABITANT_DEVICE_USE'}
+ Event{type=ON_DEVICE, startTime=2022-01-09T12:42, endTime=2022-01-09T12:42, context='INHABITANT_DEVICE_USE'}
+ Event{type=BLOCK_DEVICE, startTime=2022-01-09T14:21, endTime=2022-01-09T14:21, context='DEVICE_BLOCK'}
+ 
+  24). null
+  25).   name={pc_name_4} id={15} 
+ Event{type=USAGE_DEVICE, startTime=2022-01-09T07:27, endTime=2022-01-09T07:37, context='INHABITANT_DEVICE_USE'}
+ Event{type=USAGE_DEVICE, startTime=2022-01-09T18:57, endTime=2022-01-09T19:55, context='INHABITANT_DEVICE_USE'}
+ Event{type=ON_DEVICE, startTime=2022-01-09T07:27, endTime=2022-01-09T07:27, context='INHABITANT_DEVICE_USE'}
+ 
+  26). null
+  27).   name={pc_name_5} id={17} 
+ Event{type=USAGE_DEVICE, startTime=2022-01-09T10:57, endTime=2022-01-09T11:02, context='INHABITANT_DEVICE_USE'}
+ Event{type=ON_DEVICE, startTime=2022-01-09T10:57, endTime=2022-01-09T10:57, context='INHABITANT_DEVICE_USE'}
+ 
+  28).   name={pc_name_5} id={18} 
+ Event{type=USAGE_DEVICE, startTime=2022-01-09T07:42, endTime=2022-01-09T07:57, context='INHABITANT_DEVICE_USE'}
+ Event{type=USAGE_DEVICE, startTime=2022-01-09T09:17, endTime=2022-01-09T09:37, context='INHABITANT_DEVICE_USE'}
+ Event{type=USAGE_DEVICE, startTime=2022-01-09T16:22, endTime=2022-01-09T16:32, context='INHABITANT_DEVICE_USE'}
+ Event{type=ON_DEVICE, startTime=2022-01-09T07:42, endTime=2022-01-09T07:42, context='INHABITANT_DEVICE_USE'}
+ 
+  29). null
+  30).   name={refrigerator_name_2} id={4} 
+ Event{type=USAGE_DEVICE, startTime=2022-01-09T07:17, endTime=2022-01-09T07:32, context='INHABITANT_DEVICE_USE'}
+ Event{type=ON_DEVICE, startTime=2022-01-09T07:17, endTime=2022-01-09T07:17, context='INHABITANT_DEVICE_USE'}
+ 
+  31). null
+  32).   name={refrigerator_name_9} id={6} 
+ Event{type=USAGE_DEVICE, startTime=2022-01-09T09:37, endTime=2022-01-09T09:52, context='INHABITANT_DEVICE_USE'}
+ Event{type=ON_DEVICE, startTime=2022-01-09T09:37, endTime=2022-01-09T09:37, context='INHABITANT_DEVICE_USE'}
+ 
+  33).   name={refrigerator_name_9} id={7} 
+ Event{type=USAGE_DEVICE, startTime=2022-01-09T12:27, endTime=2022-01-09T12:32, context='INHABITANT_DEVICE_USE'}
+ Event{type=ON_DEVICE, startTime=2022-01-09T12:27, endTime=2022-01-09T12:27, context='INHABITANT_DEVICE_USE'}
+ 
+  34). null
+  35).   name={shower_name_2} id={39} 
+ Event{type=USAGE_DEVICE, startTime=2022-01-09T08:22, endTime=2022-01-09T08:52, context='INHABITANT_DEVICE_USE'}
+ Event{type=USAGE_DEVICE, startTime=2022-01-09T10:02, endTime=2022-01-09T10:12, context='INHABITANT_DEVICE_USE'}
+ Event{type=USAGE_DEVICE, startTime=2022-01-09T12:12, endTime=2022-01-09T12:22, context='INHABITANT_DEVICE_USE'}
+ Event{type=USAGE_DEVICE, startTime=2022-01-09T18:12, endTime=2022-01-09T18:22, context='INHABITANT_DEVICE_USE'}
+ Event{type=ON_DEVICE, startTime=2022-01-09T08:22, endTime=2022-01-09T08:22, context='INHABITANT_DEVICE_USE'}
+ 
+  36).   name={television_name_1} id={1} 
+ Event{type=USAGE_DEVICE, startTime=2022-01-09T09:12, endTime=2022-01-09T10:51, context='INHABITANT_DEVICE_USE'}
+ Event{type=USAGE_DEVICE, startTime=2022-01-09T16:32, endTime=2022-01-09T18:11, context='INHABITANT_DEVICE_USE'}
+ Event{type=ON_DEVICE, startTime=2022-01-09T09:12, endTime=2022-01-09T09:12, context='INHABITANT_DEVICE_USE'}
+ Event{type=FIX_DEVICE, startTime=2022-01-09T10:51, endTime=2022-01-09T10:51, context='PERSON_DEVICE_FIX'}
+ Event{type=FIX_DEVICE, startTime=2022-01-09T18:11, endTime=2022-01-09T18:11, context='PERSON_DEVICE_FIX'}
+ 
+  37). null
+  38). null
+  39).   name={cleaner_name_3} id={38} 
+ Event{type=USAGE_DEVICE, startTime=2022-01-09T07:22, endTime=2022-01-09T07:27, context='INHABITANT_DEVICE_USE'}
+ Event{type=USAGE_DEVICE, startTime=2022-01-09T08:52, endTime=2022-01-09T09:02, context='INHABITANT_DEVICE_USE'}
+ Event{type=USAGE_DEVICE, startTime=2022-01-09T11:02, endTime=2022-01-09T12:26, context='INHABITANT_DEVICE_USE'}
+ Event{type=ON_DEVICE, startTime=2022-01-09T07:22, endTime=2022-01-09T07:22, context='INHABITANT_DEVICE_USE'}
+ Event{type=BLOCK_DEVICE, startTime=2022-01-09T12:26, endTime=2022-01-09T12:26, context='DEVICE_BLOCK'}
+ 

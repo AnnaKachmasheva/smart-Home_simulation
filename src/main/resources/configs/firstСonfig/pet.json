@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Cat_1",
+    "typePet": "CAT"
+  },
+  {
+    "name": "Cat_2",
+    "typePet": "CAT"
+  },
+  {
+    "name": "Dog_1",
+    "typePet": "DOG"
+  },
+  {
+    "name": "Dog_2",
+    "typePet": "DOG"
+  },
+  {
+    "name": "Bird_1",
+    "typePet": "BIRD"
+  },
+  {
+    "name": "Fish_1",
+    "typePet": "FISH"
+  },
+  {
+    "name": "Turtle_1",
+    "typePet": "TURTLE"
+  },
+  {
+    "name": "Snake_1",
+    "typePet": "SNAKE"
+  },
+  {
+    "name": "Snake_2",
+    "typePet": "SNAKE"
+  }
+]

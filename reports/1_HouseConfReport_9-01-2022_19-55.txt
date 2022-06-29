@@ -1,0 +1,146 @@
+  Home 
+ Floors: 
+1) Count rooms: 3.
+ -> Room id 1.
+   Windows: 
+  1. State: CLOSED
+   Feeders: 
+  1. ID 32. feeder_name_1. State: OFF
+   Lamps: 
+  1. ID 21. lamp_name_1. State: OFF
+  2. ID 22. lamp_name_1. State: OFF
+  3. ID 23. lamp_name_1. State: OFF
+  4. ID 24. lamp_name_1. State: OFF
+   TVs: 
+  1. ID 1. television_name_1. State: OFF
+   Humidity sensors: 
+  1. ID 4. humidity_sensor_name. Type: HUMIDITY. Data: -60 
+   Light sensors: 
+  1. ID 1. light_sensor_name. Type: LIGHT. Data: 1 
+   Smoke sensors: 
+  1. ID 2. smoke_sensor_name. Type: SMOKE. Data: 52 
+   Radon sensors: 
+  1. ID 3. temperature_sensor_name. Type: TEMPERATURE. Data: -26 
+ -> Room id 2.
+   Windows: 
+  1. State: CLOSED
+  2. State: CLOSED
+  3. State: CLOSED
+  4. State: CLOSED
+  5. State: CLOSED
+   Air conditioners: 
+  1. ID 28. conditioner_nam_2. State: OFF
+   Coffee machines: 
+  1. ID 11. coffee_machine_name_2. State: OFF
+   Feeders: 
+  1. ID 33. feeder_name_2. State: OFF
+   Refrigerators: 
+  1. ID 4. refrigerator_name_2. State: OFF
+   Showers: 
+  1. ID 39. shower_name_2. State: OFF
+   TVs: 
+  1. ID 2. television_name_2. State: OFF
+  2. ID 3. television_name_2. State: OFF
+ -> Room id 3.
+   Air Purifiers: 
+  1. ID 30. purifier_name_3. State: OFF
+   Drinkers: 
+  1. ID 35. drinker_name_3. State: OFF
+   PCs: 
+  1. ID 19. pc_nam_3. State: OFF
+   Cleaners: 
+  1. ID 38. cleaner_name_3. State: OFF
+2) Count rooms: 3.
+ -> Room id 4.
+   Windows: 
+  1. State: CLOSED
+   Lamps: 
+  1. ID 20. lamp_name_4. State: OFF
+   PCs: 
+  1. ID 14. pc_name_4. State: OFF
+  2. ID 15. pc_name_4. State: OFF
+ -> Room id 5.
+   Windows: 
+  1. State: CLOSED
+  2. State: CLOSED
+  3. State: CLOSED
+  4. State: CLOSED
+   Air conditioners: 
+  1. ID 29. conditioner_nam_5. State: OFF
+   Feeders: 
+  1. ID 34. feeder_name_5. State: OFF
+   PCs: 
+  1. ID 16. pc_name_5. State: OFF
+  2. ID 17. pc_name_5. State: OFF
+  3. ID 18. pc_name_5. State: OFF
+ -> Room id 6.
+   Music Centers: 
+  1. ID 31. music_center_name_6. State: OFF
+   Refrigerators: 
+  1. ID 5. refrigerator_name_6. State: OFF
+3) Count rooms: 4.
+ -> Room id 7.
+   Windows: 
+  1. State: CLOSED
+  2. State: CLOSED
+  3. State: CLOSED
+  4. State: CLOSED
+  5. State: CLOSED
+  6. State: CLOSED
+   Coffee machines: 
+  1. ID 12. coffee_machine_name_7. State: OFF
+  2. ID 13. coffee_machine_name_7. State: OFF
+   Drinkers: 
+  1. ID 36. drinker_name_7. State: OFF
+   Lamps: 
+  1. ID 25. lamp_name_7. State: OFF
+  2. ID 26. lamp_name_7. State: OFF
+ -> Room id 8.
+   Cameras: 
+  1. ID 9. camera_name_8. State: OFF
+   Drinkers: 
+  1. ID 37. drinker_name_8. State: OFF
+ -> Room id 9.
+   Lamps: 
+  1. ID 27. lamp_name_9. State: OFF
+   Refrigerators: 
+  1. ID 6. refrigerator_name_9. State: OFF
+  2. ID 7. refrigerator_name_9. State: OFF
+  3. ID 8. refrigerator_name_9. State: OFF
+ -> Room id 10.
+   Windows: 
+  1. State: CLOSED
+   Cameras: 
+  1. ID 10. camera_name_10. State: OFF
+
+ Persons: 
+1. ADULT Jack_1. State: NOT_AT_HOME
+2. ADULT Jack_2. State: NOT_AT_HOME
+3. CHILD Jack_3. State: IDLE
+4. CHILD Jack_4. State: NOT_AT_HOME
+5. CHILD Jack_5. State: NOT_AT_HOME
+6. CHILD Jack_6. State: NOT_AT_HOME
+7. BABY Jack_7. State: NOT_AT_HOME
+8. BABY Jack_8. State: NOT_AT_HOME
+9. BABY Jack_9. State: NOT_AT_HOME
+
+ Pets: 
+1. PET Cat_1. State: NOT_AT_HOME
+2. PET Cat_2. State: NOT_AT_HOME
+3. PET Dog_1. State: NOT_AT_HOME
+4. PET Dog_2. State: NOT_AT_HOME
+5. PET Bird_1. State: NOT_AT_HOME
+6. PET Fish_1. State: NOT_AT_HOME
+7. PET Turtle_1. State: NOT_AT_HOME
+8. PET Snake_1. State: NOT_AT_HOME
+9. PET Snake_2. State: NOT_AT_HOME
+
+ Transports: 
+1. AUTO Auto_1.
+2. AUTO Auto_2.
+3. AUTO Auto_3.
+4. SKIS Skis_1. Current user: Jack_3.
+5. SKIS Skis_2.
+6. SKIS Skis_3. Current user: Jack_4.
+7. BICYCLE Bicycle_1.
+8. BICYCLE Bicycle_2.

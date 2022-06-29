@@ -1,0 +1,26 @@
+[
+  {
+    "type": "LIGHT",
+    "name": "light_sensor_name",
+    "idRoom": 1,
+    "count": 2
+  },
+  {
+    "type": "SMOKE",
+    "name": "smoke_sensor_name",
+    "idRoom": 2,
+    "count": 2
+  },
+  {
+    "type": "TEMPERATURE",
+    "name": "temperature_sensor_name",
+    "idRoom": 4,
+    "count": 2
+  },
+  {
+    "type": "HUMIDITY",
+    "name": "humidity_sensor_name",
+    "idRoom": 6,
+    "count": 2
+  }
+]
